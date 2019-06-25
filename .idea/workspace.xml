@@ -26,17 +26,27 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/classSkillsLoading.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="273">
-                  <caret line="56" selection-start-line="56" selection-end-line="56" />
+                <state>
+                  <caret column="25" selection-start-column="6" selection-end-column="25" />
                   <folding>
                     <element signature="n#!!block;n#constructor#0;n#skillsLoading#0" />
                     <element signature="n#!!block;n#getRandom#0;n#!!block;n#constructor#0;n#skillsLoading#0" />
                     <element signature="n#!!block;n#createDivWithClass#0;n#skillsLoading#0" />
                     <element signature="n#!!block;n#selectC_#0;n#skillsLoading#0" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor />
+                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -80,6 +90,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -90,12 +103,20 @@
       </list>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2086" />
     <option name="y" value="108" />
     <option name="width" value="1346" />
     <option name="height" value="782" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -117,6 +138,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -145,24 +167,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561487721305</updated>
-      <workItem from="1561487722403" duration="11158000" />
+      <workItem from="1561487722403" duration="11420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11158000" />
+    <option name="totallyTimeSpent" value="11420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1918" y="0" width="1364" height="770" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11035007" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11035007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3296" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3306581" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -208,14 +229,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classSkillsLoading.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state>
+          <caret column="25" selection-start-column="6" selection-end-column="25" />
           <folding>
             <element signature="n#!!block;n#constructor#0;n#skillsLoading#0" />
             <element signature="n#!!block;n#getRandom#0;n#!!block;n#constructor#0;n#skillsLoading#0" />
             <element signature="n#!!block;n#createDivWithClass#0;n#skillsLoading#0" />
             <element signature="n#!!block;n#selectC_#0;n#skillsLoading#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
