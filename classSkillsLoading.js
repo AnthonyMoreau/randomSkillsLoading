@@ -56,7 +56,12 @@ class randomSkillsLoading{
         return document.querySelector(maClass);
     }
 }
+
+let vitesse = 2.5;
+let transition = .2;
+
 //example 
+
 let HTML = new randomSkillsLoading(
     '.skill1',
     'Loading',
