@@ -2,13 +2,13 @@ body{
     background-color: #2e2e2e;
     margin: 0;
 }
-.skills{
+.skills_{
     height: 30px;
     width: 80%;
     background-color: whitesmoke;
     margin: 20px auto;
 }
-.skill{
+.skill_{
     height: 30px;
     background-color: rgba(45, 45, 45, 0.9);
     width: 10%;
@@ -19,7 +19,7 @@ body{
     width: 100%;
     justify-content: center;
 }
-.load p {
+.load span {
     color: whitesmoke;
     margin: auto;
 }

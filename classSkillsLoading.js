@@ -55,20 +55,25 @@ class randomSkillsLoading{
     selectC_(maClass){
         return document.querySelector(maClass);
     }
-}
+};
 
-let vitesse = 2.5;
-let transition = .2;
+// Variables;
+const value = 'loading';
+const min = 0;
+const max = 12;
+const vitesse = 80;
+const transition = null;
+const pourcentage = 100;
+const random = 'true';
 
 //example 
-
 let HTML = new randomSkillsLoading(
-    '.skill1',
-    'Loading',
-    0,
-    4,
+    '.html', // div a récupérer dans le html elle doit etre vide attention !!
+    value,
+    min,
+    max,
     50 / vitesse,
-    50,
-    'false',
-    transition),
+    pourcentage,
+    random,
+    transition);
 
